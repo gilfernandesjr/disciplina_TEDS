@@ -9,7 +9,7 @@ Olá aluno!
 
 Neste repositório você encontra todos os projetos desenvolvidos nas aulas.
 
-Os projetos estão no formato .zip, mas para abrí-los em seu Android Studio é bem fácil!
+IMPORTANTE: Os projetos estão no formato .zip, mas para abrí-los em seu Android Studio é bem fácil!
 
 Basta extrair o arquivo .zip no local que você deseja armazenar o projeto, e ao final do processo de extração, você verá a pasta com o nome do projeto (por exemplo, HamburgueriaY).
 
