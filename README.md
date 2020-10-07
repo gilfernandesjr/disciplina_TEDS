@@ -1,13 +1,8 @@
-# disciplina_TEDS_android
+# Tópicos Especiais de Desenvolvimento de Sistemas - Desenvolivmento Android
 
-Disciplina: Tópicos Especiais de Desenvolvimento de Sistemas
+Olá aluno(a)!
 
-Tema: Desenvolvimento Android
-
-
-Olá aluno!
-
-Neste repositório você encontra todos os projetos desenvolvidos nas aulas.
+Neste repositório você encontra o código de todos os projetos desenvolvidos nas aulas da disciplina.
 
 IMPORTANTE: Os projetos estão no formato .zip, mas para abrí-los em seu Android Studio é bem fácil!
 
