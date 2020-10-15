@@ -30,7 +30,7 @@ Como configurar o dispositivo:
 Como executar o app no seu dispositivo:
 
 - No Android Studio, selecione seu app no menu suspenso de configurações de execução/depuração, na barra de ferramentas (Mas geralmente, já vem selecionado por padrão).
-- E logo ao lado, na barra de ferramentas, selecione o dispositivo em que você quer executar o app no menu suspenso do dispositivo de destino.
+- E logo ao lado, na barra de ferramentas, selecione o dispositivo em que você quer executar o app no menu suspenso do dispositivo de destino conforme a figura abaixo (A indicação na seta vermelha mostra o local que irá aparecer seu dispositivo, quando conectado e configurado).
 - Clique em Run. O Android Studio então instala e executa o app automaticamente no dispositivo conectado.
 
 ![img](/img/local_dispositivo.jpg)
