@@ -14,6 +14,12 @@ Basta extrair o arquivo .zip no local que você deseja armazenar o projeto, e ao
 
 Em seguida, no Android Studio, vá em File -> New -> Import Project... e selecione o diretório onde você extraiu o .zip. Lá você verá a pasta do projeto com o simbolo do Android Studio, na cor verde. Basta selecioná-la e dar OK!
 
+## Material complementar
+
+Como não há livro nesta disciplina, você pode consultar o site Android Developers que tem tudo sobre Android, com tutoriais, exemplos e até aulas básicas (É uma documentação bem completa e necessária para todos os desenvolvedores) e há também um livro interessante no portal 'MinhaBiblioteca' (Mas atenção, pois não estou seguindo este livro! Ele é apenas leitura complementar):
+
+DEITEL, P.; DEITEL, H.; WALD, A. Android 6 para Programadores: Uma Abordagem Baseada em Aplicativos. 3. ed. Porto Alegre: Bookman Editora, 2016.
+
 ## Como executar um App no Smartphone/Tablet Android
 
 Para executar o seu projeto do Android Studio diretamente em seu dispositivo Android, basta habilitar a opção de USB Debugging (Depuração USB) nas opções de desenvolvedor (Developer Options).
